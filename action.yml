@@ -1,11 +1,12 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'GitHub Badges Action'
+description:
+  'Generates a list of badges from a JSON file (using ShieldsIo and SimpleIcons)'
+author: 'Guilherme Branco Stracini'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
-  icon: 'heart'
-  color: 'red'
+  icon: 'award'
+  color: 'green'
 
 # Define your inputs here.
 inputs:
