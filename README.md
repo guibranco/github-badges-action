@@ -1,9 +1,9 @@
 # GitHub badges action
 
-[![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action 'shields.io')
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guibranco/github-badges-action?color=green&label=Code%20size&style=plastic&logo=github)](https://github.com/guibranco/github-badges-action 'shields.io')
-[![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/github-badges-action?color=green&logo=github&style=plastic&label=Last%20commit)](https://github.com/guibranco/github-badges-action 'shields.io')
-[![GitHub license](https://img.shields.io/github/license/guibranco/github-badges-action?color=green&logo=github&style=plastic&label=License)](https://github.com/guibranco/github-badges-action 'shields.io')
+[![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guibranco/github-badges-action?color=green&label=Code%20size&style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
+[![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/github-badges-action?color=green&logo=github&style=plastic&label=Last%20commit)](https://github.com/guibranco/github-badges-action)
+[![GitHub license](https://img.shields.io/github/license/guibranco/github-badges-action?color=green&logo=github&style=plastic&label=License)](https://github.com/guibranco/github-badges-action)
 
 [![GitHub Super-Linter](https://github.com/guibranco/github-badges-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
 ![CI](https://github.com/guibranco/github-badges-action/actions/workflows/ci.yml/badge.svg)
