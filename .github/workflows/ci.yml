@@ -69,7 +69,6 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name != 'pull_request'
     steps:
-     
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -77,7 +76,7 @@ jobs:
       - name: Install GitVersion
         uses: gittools/actions/gitversion/setup@v2
         with:
-          versionSpec: "5.x"
+          versionSpec: '5.x'
 
       - name: Determine Version
         id: gitversion
@@ -95,4 +94,6 @@ jobs:
           tag: v${{ steps.gitversion.outputs.semVer }}
           name: Release v${{ steps.gitversion.outputs.semVer }}
           generateReleaseNotes: true
-          body: Release ${{ steps.gitversion.outputs.semVer }} of ${{ github.event.repository.name }}
+          body:
+            Release ${{ steps.gitversion.outputs.semVer }} of ${{
+            github.event.repository.name }}
