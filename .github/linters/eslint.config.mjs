@@ -18,11 +18,12 @@ const compat = new FlatCompat({
 export default [
   {
     ignores: [
-      '!**/.*',
-      '**/node_modules/.*',
-      '**/dist/.*',
-      '**/coverage/.*',
-      '**/*.json'
+      '!**/',
+      '**/node_modules/',
+      '**/dist/',
+      '**/coverage/',
+      '**/*.json',
+      '**/*.mjs'
     ]
   },
   ...compat.extends(
