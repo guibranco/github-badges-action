@@ -1,3 +1,5 @@
+# GitHub badges action
+
 [![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action 'shields.io')
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guibranco/github-badges-action?color=green&label=Code%20size&style=plastic&logo=github)](https://github.com/guibranco/github-badges-action 'shields.io')
 [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/github-badges-action?color=green&logo=github&style=plastic&label=Last%20commit)](https://github.com/guibranco/github-badges-action 'shields.io')
@@ -8,8 +10,6 @@
 [![Check dist/](https://github.com/guibranco/github-badges-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/guibranco/github-badges-action/actions/workflows/check-dist.yml)
 [![CodeQL](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
-
-# GitHub badges action
 
 🧰🎲 A GitHub action to update readme files with badges (using
 [ShieldsIo](https://shields.io) and [SimpleIcons](https://simpleicons.org/) for
