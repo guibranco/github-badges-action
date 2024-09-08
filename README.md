@@ -12,7 +12,8 @@
 # GitHub badges action
 
 🧰🎲 A GitHub action to update readme files with badges (using
-[ShieldsIo](https://shields.io) and [SimpleIcons](https://simpleicons.org/) for icons).
+[ShieldsIo](https://shields.io) and [SimpleIcons](https://simpleicons.org/) for
+icons).
 
 Set skills with categories in a `.json` file in your repository, and them run
 this action to create a [Shields.io](https://shields.io/) badge with
