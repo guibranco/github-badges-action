@@ -11,7 +11,7 @@
 [![CodeQL](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
 
-🧰🎲 A GitHub action to update readme files with badges (using
+🧰🎲 A GitHub Action to update readme files with badges (using
 [ShieldsIo](https://shields.io) and [SimpleIcons](https://simpleicons.org/) for
 icons).
 
