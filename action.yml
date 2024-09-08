@@ -1,5 +1,6 @@
 name: 'GitHub Badges Action'
-description: 'Generates a list of badges from a JSON file (using ShieldsIo and SimpleIcons)'
+description:
+  'Generates a list of badges from a JSON file (using ShieldsIo and SimpleIcons)'
 author: 'Guilherme Branco Stracini'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
