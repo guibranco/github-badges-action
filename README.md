@@ -1,3 +1,10 @@
+# Local Development
+
+To run your GitHub Actions locally, you can use the `@github/local-action` utility. This tool simulates the GitHub Actions environment on your local machine.
+
+## Setup
+1. Ensure `@github/local-action` is installed as a development dependency.
+2. Use the provided npm script to execute your action locally.
 # GitHub Badges Action
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
