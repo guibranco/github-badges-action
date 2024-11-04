@@ -14,9 +14,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Run data collection script
       run: |
         echo "Collecting data for Activity Dashboard..."
         # Add commands to collect and update data here
+        ./scripts/update-dashboard.sh
