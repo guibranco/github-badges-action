@@ -1,4 +1,10 @@
 {
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "jsx": "react"
+  }
+}
+{
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
     "target": "ES2022",
