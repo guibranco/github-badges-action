@@ -1,3 +1,9 @@
+# Pixeebot Activity Dashboard
+
+The Pixeebot Activity Dashboard provides a comprehensive summary of repository activity and identifies areas for improvement. It displays activity metrics, open issues, and available improvements.
+
+## Accessing the Dashboard
+The dashboard is automatically updated daily and can be accessed from the repository's main page.
 # GitHub Badges Action
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
