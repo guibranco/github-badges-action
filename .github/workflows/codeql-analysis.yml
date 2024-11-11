@@ -10,8 +10,6 @@ on:
     - cron: '0 0 * * 0'
     - cron: '31 7 * * 3'
 
-  schedule:
-    - cron: '31 7 * * 3'
 
 permissions:
   actions: read
