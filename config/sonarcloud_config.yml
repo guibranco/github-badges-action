@@ -1,0 +1,5 @@
+sonarcloud:
+  organization: your-organization
+  projectKey: your-project-key
+  token: your-access-token
+  schedule: weekly
