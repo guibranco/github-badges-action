@@ -1,0 +1,5 @@
+semgrep:
+  rules:
+    - path/to/rule1.yml
+    - path/to/rule2.yml
+  schedule: weekly
