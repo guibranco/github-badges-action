@@ -1,8 +1,4 @@
 name: CodeQL
-schedule:
-
-  - cron: '0 0 * * 0'
-
 on:
   pull_request:
     branches:
@@ -10,6 +6,10 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 0 * * 0'
+    - cron: '31 7 * * 3'
+
   schedule:
     - cron: '31 7 * * 3'
 
