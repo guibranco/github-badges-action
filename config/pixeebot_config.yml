@@ -1,0 +1,5 @@
+pixeebot:
+  monitor:
+    activities: true
+  generate_summaries: true
+  schedule: weekly
