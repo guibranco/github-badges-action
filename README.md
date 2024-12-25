@@ -9,6 +9,7 @@
 ![CI](https://github.com/guibranco/github-badges-action/actions/workflows/ci.yml/badge.svg)
 [![Check dist/](https://github.com/guibranco/github-badges-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/guibranco/github-badges-action/actions/workflows/check-dist.yml)
 [![CodeQL](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/guibranco/github-badges-action/actions/workflows/codeql-analysis.yml)
+[![wakatime](https://wakatime.com/badge/github/guibranco/github-badges-action.svg)](https://wakatime.com/badge/github/guibranco/github-badges-action)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
 
 📄 :octocat: GitHub Action to update readme with badges (using
