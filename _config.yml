@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: 📄 :octocat: GitHub Action to update readme with badges
-description: Set skills with categories in a .json file in your repository, and then run this action to create a Shields.io badge with SimpleIcons labels.
+title: "📄 :octocat: GitHub Action to update readme with badges"
+description: "Set skills with categories in a .json file in your repository, and then run this action to create a Shields.io badge with SimpleIcons labels."
 show_downloads: true
