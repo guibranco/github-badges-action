@@ -75,4 +75,3 @@ on:
 <img alt="DashList" src="https://docs.pixee.ai/img/pixee_dashlist.png">
 
 This dashboard summarizes my activity on the repository, including available improvement opportunities.
-\n
