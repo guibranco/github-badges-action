@@ -76,4 +76,3 @@ on:
 
 This dashboard summarizes my activity on the repository, including available improvement opportunities.
 \n
- 
