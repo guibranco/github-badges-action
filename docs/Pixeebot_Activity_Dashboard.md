@@ -37,3 +37,4 @@ Learn about the power of Pixee CLI: [GitHub/pixee-cli](https://github.com/pixee/
 - [Support](mailto:help@pixee.ai)
 
 Follow Pixee on [GitHub](https://github.com/pixee) and [LinkedIn](https://www.linkedin.com/company/pixee/).
+ 
