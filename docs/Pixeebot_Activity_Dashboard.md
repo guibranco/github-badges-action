@@ -11,7 +11,7 @@ _Last analysis: Mar 10 | Next scheduled analysis: Mar 17_
 **NOTE**: The primary language is identified as `JavaScript`. To fix code in this language, you must [connect a supported code scanning tool](https://docs.pixee.ai/code-scanning-tools/overview).
 
 #### Open
- - ✅ Nice work, you're all caught up!
+ -✅ Nice work, you're all caught up!
 
 #### Available
  - ✅ Nothing yet, but continuous monitoring of pull requests.
