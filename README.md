@@ -1,4 +1,4 @@
-# GitHub Badges Action
+# GitHub Badges action
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-guibranco%2Fgithub--badges--action-green.svg?style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guibranco/github-badges-action?color=green&label=Code%20size&style=plastic&logo=github)](https://github.com/guibranco/github-badges-action)
