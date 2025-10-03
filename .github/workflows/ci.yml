@@ -84,7 +84,7 @@ jobs:
         uses: gittools/actions/gitversion/execute@v4.1.0
 
       - name: Create Release
-        uses: ncipollo/release-action@v1.18.0
+        uses: ncipollo/release-action@v1.20.0
         with:
           allowUpdates: false
           skipIfReleaseExists: true
